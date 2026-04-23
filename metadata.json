@@ -1,0 +1,8 @@
+{
+  "name": "Campus Rickshaw Booking",
+  "description": "An online ride-booking platform for campus electric rickshaws. Includes passenger, driver, and admin interfaces.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
